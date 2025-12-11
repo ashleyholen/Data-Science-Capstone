@@ -3,7 +3,7 @@
 
 ## Project Summary
 What year does renewable energy generated in Hawaiʻi first reach or surpass nonrenewable energy generation? 
-On January 27th, 2025, Hawaiʻi governor Josh Green signed [EXECUTIVE ORDER NO. 25-01.pdf](https://github.com/user-attachments/files/24099444/2501085_Executive-Order-No.-25-01.pdf) as part of the [Hawai'i Clean Energy Initative](https://energy.hawaii.gov/Hawaii-clean-energy-initiative/) stating, “It shall be the policy of the state to accelerate Hawaiʻi’s energy transition to achieve 100% renewable electricity production in the counties of Hawaiʻi, Kauaʻi, and Maui by 2035”, with the latter threshold of 2045.[2501085_Executive-Order-No.-25-01.pdf](https://github.com/user-attachments/files/24099444/2501085_Executive-Order-No.-25-01.pdf)
+On January 27th, 2025, Hawaiʻi governor Josh Green signed [EXECUTIVE ORDER NO. 25-01](https://github.com/user-attachments/files/24099444/2501085_Executive-Order-No.-25-01.pdf) as part of the [Hawai'i Clean Energy Initative](https://energy.hawaii.gov/Hawaii-clean-energy-initiative/) stating, “It shall be the policy of the state to accelerate Hawaiʻi’s energy transition to achieve 100% renewable electricity production in the counties of Hawaiʻi, Kauaʻi, and Maui by 2035”, with the latter threshold of 2045.[2501085_Executive-Order-No.-25-01.pdf](https://github.com/user-attachments/files/24099444/2501085_Executive-Order-No.-25-01.pdf)
 
 To investigate the progress of this goal, this study analyzes 10 years of monthly energy generation data to forecast when the renewable energy share of Hawaiʻi reaches 50%, or the halfway point. A SARIMAX time series model was deployed to forecast the year where renewable generation (MWh) would either reach or surpass non-renewable generation (MWh).
 
